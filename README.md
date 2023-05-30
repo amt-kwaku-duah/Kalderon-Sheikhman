@@ -1,13 +1,7 @@
 - 👋 Hi,I am Kwaku Duah
--Certified in Python programming from freecodecamp.org.
-I am learning to become a fullstack engineer and 
-I am currently enrolled in frontend and backend courses on coursera from Meta.
+I am a petroleum engineer and a self taught software developer. I also have an extensive experience in ML.
+Presently , I am searching for developer roles, in full stack development and Machine Learning. I work on Linux OS.
 
-
--Interested in Python,SQL for backend and DBA
-- 👀 I’m interested in ... automation with BASH and python
-- 🌱 I’m currently learning ...BASH, automation, linux administration and SQL
-- 💞️ I’m looking to collaborate on ... python-kivy for mobile app development
 - 📫 How to reach me ... duah229@gmail.com
 
 <!---
